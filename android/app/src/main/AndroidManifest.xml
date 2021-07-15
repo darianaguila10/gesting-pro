@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.gesting">
+    package="com.darianaguila10.gestingpro">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -8,7 +8,7 @@
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Gesting"
+        android:label="Gesting Pro"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
