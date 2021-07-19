@@ -172,13 +172,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_sms_inbox:
-    dependency: "direct main"
-    description:
-      name: flutter_sms_inbox
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.1+1"
   flutter_staggered_animations:
     dependency: "direct main"
     description:
@@ -558,13 +551,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.1+1"
-  ussd:
-    dependency: "direct main"
-    description:
-      name: ussd
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.2+1"
   vector_math:
     dependency: transitive
     description:

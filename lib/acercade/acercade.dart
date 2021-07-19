@@ -45,7 +45,7 @@ class AcercaDe extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(bottom: 40, top: 10),
             child: Text(
-              "versión: 1.4.1",
+              "versión: 1.0.0",
               style: TextStyle(color: Colors.white),
             ),
           ),

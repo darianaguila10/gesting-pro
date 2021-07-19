@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
               bottom: Radius.circular(25),
             ),
           ),
-          title: new Text("Gesting"),
+          title: new Text("Gesting Pro"),
           actions: <Widget>[
             PopupMenuButton<int>(
               onSelected: (i) {

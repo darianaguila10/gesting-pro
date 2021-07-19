@@ -18,7 +18,7 @@ import 'package:gesting/reporte/reportetab.dart';
 
 import 'package:gesting/reporte_categoria/reporte-gasto/reporte_categoria_tab.dart';
 import 'package:gesting/reporte_categoria/reporte-ingreso/reporte_categoria_tab.dart';
-import 'package:gesting/test-data.dart';
+
 import 'package:gesting/theme/themeService.dart';
 
 import 'package:gesting/widget/initscreen.dart';
@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
       initTheme: theme,
       child: Builder(builder: (context) {
         return MaterialApp(
-          title: 'Gesting',
+          title: 'Gesting Pro',
           localizationsDelegates: [
             // ... app-specific localization delegate[s] here
             GlobalMaterialLocalizations.delegate,

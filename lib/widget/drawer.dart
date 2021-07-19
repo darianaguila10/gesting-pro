@@ -44,7 +44,7 @@ class _MydrawerState extends State<Mydrawer> {
                       height: 5,
                     ),
                     Text(
-                      'Gesting',
+                      'Gesting Pro',
                       style: TextStyle(color: Colors.white, fontSize: 20.0),
                     )
                   ],

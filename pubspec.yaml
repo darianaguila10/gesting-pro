@@ -34,8 +34,6 @@ dependencies:
   animate_do: ^1.7.3
   path_provider_ex: ^1.0.1
   permission_handler: ^5.0.1+1
-  flutter_sms_inbox: ^0.1.1+1
-  ussd: ^0.0.2+1
   animated_text_kit: ^2.2.0
   url_launcher: ^5.7.2
   introduction_screen: ^1.0.9

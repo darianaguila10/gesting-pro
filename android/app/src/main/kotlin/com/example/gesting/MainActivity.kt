@@ -1,4 +1,4 @@
-package com.example.gesting
+package com.darianaguila10.gestingpro
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

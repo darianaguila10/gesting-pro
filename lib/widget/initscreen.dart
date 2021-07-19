@@ -40,9 +40,9 @@ static const routeName = "/initscreen";
       key: introKey,
       pages: [
         PageViewModel(
-          title: "Bienvenido a Gesting",
+          title: "Bienvenido a Gesting Pro",
           body:
-              "Gesting es la aplicación ideal para gestionar sus finanzas personales de forma sencilla.",
+              "Gesting Pro es la aplicación ideal para gestionar sus finanzas personales de forma sencilla.",
           image: _buildImage('inits1'),
           decoration: pageDecoration,
         ),
